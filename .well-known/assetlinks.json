@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.abamadevelopers.mundo_fallas",
+      "sha256_cert_fingerprints":
+        ["27:FE:F9:5A:AC:14:46:E0:76:49:01:0A:EE:9D:C0:C7:B5:FB:DF:6C:48:19:CA:67:D2:29:FC:00:8D:16:F0:F2"]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "DJ4M6S2VKQ.com.abamadevelopers.mundoFallas"
+        ],
+        "paths": ["*"]
+       }
+     ]
+   }
+}
